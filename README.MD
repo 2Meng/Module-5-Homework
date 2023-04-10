@@ -30,3 +30,5 @@ Once it saved, it will store in their local storage.
 This calendar is desktop and mobile compatible.
 
 Mock-Up
+
+![image](https://user-images.githubusercontent.com/91503750/231004008-37eb4307-5570-44b5-8d88-f8cffca4c7fd.png)
